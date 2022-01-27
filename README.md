@@ -12,6 +12,4 @@ Currently, I am working on some Minecraft related projects.
 
 ---
 
-<img src="https://discord-readme-badge.vercel.app/api?id=<724955603356614757>">
-
 ---
