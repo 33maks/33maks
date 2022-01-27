@@ -13,7 +13,7 @@ Currently, I am working on some Minecraft related projects.
 ---
 
 <h5 align="center">
-You can contact me by discord:
+You can contact me by discord: <br>
 <img src="https://dcbadge.vercel.app/api/shield/724955603356614757">
 </h5>
 
