@@ -12,6 +12,9 @@ Currently, I am working on some Minecraft related projects.
 
 ---
 
-<img src="https://discord-readme-badge.vercel.app/api?id=<724955603356614757>">
+<h5 align="center">
+You can contact me by discord:
+<img src="https://dcbadge.vercel.app/api/shield/724955603356614757">
+</h5>
 
 ---
