@@ -3,7 +3,6 @@
 
 <h5 align="center">
 Hi, im 33maks.👋 <br>
-Currently, I am working on some Minecraft related projects. 
 </h5>
 
 ---
